@@ -1,2 +1,2 @@
 # Practice-Algorithm
-C++ practice programs of Hacker rank
+C++ practice programs of Hacker rank (algorithms)
